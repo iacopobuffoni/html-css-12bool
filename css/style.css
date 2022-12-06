@@ -1,0 +1,22 @@
+.container {
+    margin-top: 30px;
+}
+
+.flexbox {
+    display: flex;
+    padding: 10px;
+}
+
+[class*="col-"] {
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    height: 40px;
+    border: 1px solid white;
+}
+
+.nested {
+    background-color: #00e165;
+    height: 20px;
+}
+
